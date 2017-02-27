@@ -1,3 +1,6 @@
+% @author: XZZ
+% @function: Determine the gender of the input speech signal based on Gaussian Mixture Model.
+
 function project3_GMM(x,fs)
 
     load 'MaleModel_GMM.mat'
@@ -15,8 +18,6 @@ function project3_GMM(x,fs)
     dSum1 = 0;
     dSum2 = 0;
 
-%         w1=ones(1,c_index);
-%         w2=ones(1,c_index);
     w1=1/24*[3 1 3 1 3 3 3 1 3 3];
     w2=1/24*[3 3 3 1 3 1 3 3 3 1];
 
