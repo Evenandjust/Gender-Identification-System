@@ -65,10 +65,8 @@ function project3(x,fs)
     end
 
     if label==1
-%         g = 'Male';
         fprintf('Male\n');
     elseif label == 0
-%         g = 'Female';
         fprintf('Female\n');
     end
 
