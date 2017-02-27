@@ -17,9 +17,7 @@ Some Details:
 
    	   For example, project3('male11.wav',8000);
 
-	3. Then you should see the result in the console, the label 'Male' or 'Female'. 
-	   (I don't store the returned label in a variable 'g' as suggested on Blackboard. 
-	    I think maybe showing the label directly is better.)
+	3. Then the result is shown in the console, the label 'Male' or 'Female'. 
 
 (d) To test GMM-based system, just use all the files in the folder named ‘GMM’. Pay attention to the work path, the other steps are similar to VQ system test.
 
