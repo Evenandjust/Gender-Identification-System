@@ -1,3 +1,6 @@
+% @author: XZZ
+% @function: Determine the gender of the input speech signal based on Vector Quantization Model.
+
 function project3(x,fs)
 
     load 'MaleModel.mat'
