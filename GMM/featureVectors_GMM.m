@@ -1,3 +1,5 @@
+% @author: XZZ
+
 % Function to generate feature vector
 function Z = featureVectors_GMM(data, frameLen, overlap, Fs)
     % Pre-emphasize the signal
