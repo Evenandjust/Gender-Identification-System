@@ -1,4 +1,6 @@
-% Function to generate feature vector
+% @author: XZZ
+% @function: Function to generate feature vector
+
 function Z = featureVectors(data, frameLen, overlap, Fs)
     % Pre-emphasize the signal
     data = filter([1,-0.9378],1,data);
