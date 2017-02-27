@@ -1,4 +1,6 @@
-% Subfunction to calculate pitch
+% @author: XZZ
+% @function: Subfunction to calculate pitch
+
 function vector = cal_pitch(frameData,Fs)
     y = frameData;
     
