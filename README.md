@@ -7,7 +7,7 @@ Some Details:
 (a) The file folder ‘VQ’ contains all the files needed to implement this system based on Vector Quantization Model.
     The file folder ‘GMM’ contains all the files needed to implement this system based on Gaussian Mixture Model.
 
-(c) To do the test of VQ-based system, please follow the instructions below:
+(b) To do the test of VQ-based system, please follow the instructions below:
 
 	1. Make sure all the m files (All in the folder named ‘VQ’) and audio files are under the same folder. 
 
@@ -19,7 +19,7 @@ Some Details:
 
 	3. Then the result is shown in the console, the label 'Male' or 'Female'. 
 
-(d) To test GMM-based system, just use all the files in the folder named ‘GMM’. Pay attention to the work path, the other steps are similar to VQ system test.
+(c) To test GMM-based system, just use all the files in the folder named ‘GMM’. Pay attention to the work path, the other steps are similar to VQ system test.
 
 	The command to run is: 
 	
