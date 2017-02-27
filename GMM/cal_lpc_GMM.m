@@ -1,3 +1,5 @@
+% @author: XZZ
+
 % Subfunction to calculate lpc
 function vector = cal_lpc_GMM(frameData)
     p = 5;
