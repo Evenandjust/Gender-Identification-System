@@ -1,4 +1,6 @@
-% Train the Female Model, save the result 'cenFemale' into 'FemaleModel_GMM.mat'
+% @author: XZZ
+% @function: Train the Female Model, save the result 'cenFemale' into 'FemaleModel_GMM.mat'
+
 function trainFemale_GMM()
 
     % Choose ten signals as train set
